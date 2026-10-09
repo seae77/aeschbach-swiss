@@ -4,11 +4,11 @@ Site personnel de Sebastian Aeschbach : présentation, mandats, prises de positi
 
 ## Contenu et sources
 
-- Mandat municipal et portrait : [PLR Ville de Genève](https://www.associations-plrge.ch/les-associations/ville-de-geneve/personnes/conseillers-municipaux).
+- Mandat municipal : [PLR Ville de Genève](https://www.associations-plrge.ch/les-associations/ville-de-geneve/personnes/conseillers-municipaux).
 - Mandat cantonal et adresse publique de contact : [Grand Conseil](https://ge.ch/grandconseil/m/gc/depute/2537/).
 - Formation et législature municipale : [déclaration officielle de liens d'intérêts 2025](https://www.geneve.ch/document/aeschbach-sebastian-liens-interets-conseil-municipal-geneve-2025).
 - Priorités politiques et première élection en 2020 : lettre personnelle de candidature municipale du 9 septembre 2024, conservée dans les archives privées du propriétaire. La lettre elle-même et les autres documents privés ne sont pas publiés dans ce dépôt.
-- Portrait repris de la fiche publique PLR : `https://www.associations-plrge.ch/fileadmin/_processed_/2/f/csm_Sebastien_Aeschbach_942f0530b7.jpg`.
+- Portrait : séance photo de juillet 2024 (archives personnelles, `photos/wetransfer_photos_2024-07-05_1306/IMG_0793.JPG`), choisi par Sebastian le 9 octobre 2026, recadré au carré 720 px, métadonnées EXIF retirées.
 
 Les priorités sont présentées comme celles de la candidature 2025. Aucun nouveau programme, engagement ou bilan chiffré n'est ajouté. Les fiches publiques ont été consultées le 1er octobre 2026.
 
